@@ -1,4 +1,4 @@
-Requer o Node 21 +
+Requer o Node 21+
 
 ```zsh
 npm install
