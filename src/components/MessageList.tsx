@@ -1,4 +1,4 @@
-import { Message } from '../App';
+import { Message } from '../types/message';
 
 interface MessageListProps {
   messages: Message[];
